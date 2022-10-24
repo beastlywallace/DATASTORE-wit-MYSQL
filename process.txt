@@ -1,0 +1,13 @@
+xamp,,run mysql and pache
+
+open http://localhost/phpmyadmin/index.php?route=/server/databases&lang=en
+
+
+create db and set previleges
+add new user
+and pssword
+ Grant all privileges on database beastlydb.
+
+https://www.youtube.com/watch?v=vrj9AohVhPA
+
+https://scrimba.com/learn/frontend/notes-app-intro-coea14f76b39cf1bfb7c86de4
